@@ -60,7 +60,8 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/gagandeep1763/gagandeep1763/output/github-contribution-grid-snake.svg)
+![snake gif]([https://raw.githubusercontent.com/gagandeep1763/gagandeep1763/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/gagandeep1763/gagandeep1763/output/github-contribution-grid-snake.svg
+))
 
 ---
 
