@@ -36,25 +36,25 @@
 
 
 ---
-
-## 🚀 Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔍 **HR Data Analysis using Power BI** | Analyzed and visualized employee attrition trends to aid HR decisions. | Power BI, Excel |
-| 📊 **Freelance Project Tracker** | A full-stack dashboard to manage freelance work status, income, and client info. | Flask, Python, MongoDB, HTML/CSS, JS |
-| 🔐 **Anti-Fraud & Secure Funding using Blockchain** | A decentralized platform ensuring transparency in crowdfunding by preventing fraudulent campaigns through blockchain. | Solidity, Truffle, React.js, Web3.js, MetaMask |
-| 👟 **Nike Shopping App UI (Figma)** | A sleek and responsive e-commerce design for Nike product browsing and purchases. | Figma UI Design |
-
-🔗 GitHub Repository for all projects: [@gagandeep1763](https://github.com/gagandeep1763?tab=repositories)
-
----
-
 ## 📈 GitHub Stats
 
 ![Gagan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gagandeep1763&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gagandeep1763&layout=compact&theme=radical&hide_border=true)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=gagandeep1763&theme=radical&hide_border=true)
+
+---
+
+## 🚀 Projects
+
+| Project Name                           | Tech Stack / Tools Used                                           | Description                                                                                                      | Live Demo / Repo                                                                                     |
+|---------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| 📊 HR Data Analysis using Power BI     | Power BI, HR CSV Dataset                                         | Interactive dashboard visualizing employee attrition, performance, and demographics with dynamic charts.       | [GitHub Repository](https://github.com/gagandeep1763/HR-Data-Analysis-using-PowerBI)                  |
+| 📊 Freelance Project Tracker           | Flask, Python, MongoDB Atlas, HTML, CSS, JavaScript, dotenv      | Full-stack tool to track freelance tasks, manage client details, and monitor project progress efficiently.      | [GitHub Repository](https://github.com/gagandeep1763/Freelance-Project-Tracker)                       |
+| 🔐 Anti-Fraud Crowdfunding (Blockchain)| Solidity, Truffle, Web3.js, React.js, MetaMask, Bootstrap        | A decentralized app to detect and prevent fraud in crowdfunding campaigns using smart contracts.               | [GitHub Repository](https://github.com/gagandeep1763/Antifraud-and-Secure-funding-using-blockchain)  |
+| 👕 Virtual Try-On Shirt App            | Python, OpenCV, MediaPipe, NumPy                                 | Real-time virtual try-on system using webcam feed with pose and hand tracking to overlay shirts accurately.     | [GitHub Repository](https://github.com/gagandeep1763/Virtual-Try-on-Shirts)                           |
+
+
+🔗 GitHub Repository for all projects: [@gagandeep1763](https://github.com/gagandeep1763?tab=repositories)
 
 ---
 
