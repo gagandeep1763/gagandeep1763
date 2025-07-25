@@ -2,7 +2,7 @@
 🚀 Final Year CSE Student at RVITM, Bangalore  
 ⚡ Designing digital experiences that delight users and deliver impact
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&width=700&lines=UI%2FUX+Designer+%7C+Final+Year+CSE+Student;Building+projects+in+Python%2C+C%2B%2B%2C+Blockchain;Creating+Designs+in+Figma)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3B82F6&width=700&lines=UI%2FUX+Designer+%7C+Final+Year+CSE+Student;Building+projects+in+Python%2C+C%2B%2B%2C+Blockchain;Creating+Designs+in+Figma)
 
 ---
 
