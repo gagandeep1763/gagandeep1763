@@ -2,7 +2,7 @@
 🚀 Final Year CSE Student at RVITM, Bangalore  
 💡 Building real-world applications and solving real problems with code & design  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7941D&width=435&lines=UI%2FUX+Designer+%7C+Frontend+Dev+%7C+Blockchain+Learner;Creative+Thinker+%7C+Real-World+App+Builder)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gagandeep+D;UI%2FUX+Designer+%7C+Final+Year+CSE+Student;Building+projects+in+Python%2C+C%2B%2B%2C+Blockchain;Creating+Designs+in+Figma+%7C+Solidity+Learner)
 
 ---
 
