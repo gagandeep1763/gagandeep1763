@@ -66,4 +66,4 @@
 
 ---
 
-⭐ *“Keep it real. Keep it user-first. Keep building.”*
+⭐ “Rise beyond the ordinary — create with purpose, build what truly matters.”
