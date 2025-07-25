@@ -7,11 +7,12 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Final year CSE student at **RVITM, Bangalore**
-- 💻 Building real-world apps with **Python**, **C++**, **Blockchain**, and **Figma UI/UX**
-- 📊 Exploring Data Analysis with **Excel**, **Power BI**, and **data storytelling**
-- 💡 Ask me about: *Creative prototyping, wireframes, business ideas, blockchain use cases*
-- 📫 Reach me at: **gaganreachsky73@gmail.com**
+🚀 Final Year CSE Student at RV Institute of Technology and Management, Bangalore  
+🎯 Passionate about building real-world solutions using Python, C++, Blockchain  
+🎨 UI/UX Designer crafting intuitive digital experiences using Figma  
+📊 Currently exploring Data Analytics: Excel, Power BI  
+💡 Ask me about creative prototyping, wireframes, business ideas, and more  
+📫 Reach me at: gaganreachsky73@gmail.com
 
 ---
 
