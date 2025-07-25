@@ -38,9 +38,16 @@
 ---
 ## 📈 GitHub Stats
 
-![Gagan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gagandeep1763&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gagandeep1763&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=gagandeep1763&theme=radical&hide_border=true)
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=gagandeep1763&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gagandeep1763&theme=tokyonight" alt="GitHub Streak" width="400"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagandeep1763&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
+
+</div>
 
 ---
 
